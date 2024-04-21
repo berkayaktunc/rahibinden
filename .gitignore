@@ -69,6 +69,8 @@ wheels/
 *.manifest 
 *.spec 
 
+item_images/
+
 # Installer logs 
 pip-log.txt 
 pip-delete-this-directory.txt 
